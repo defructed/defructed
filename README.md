@@ -9,6 +9,6 @@
 ### 🧩 • I'm on social media:
 - VKontakte: https://vk.com/quenich_exe
 - Telegram: https://t.me/quenich
-- Discord: quenich#2910
+- Discord: https://discord.gg/fK3ZUNpTtd
 
 ### ❤ Did you read all the way through? Thank you =)
