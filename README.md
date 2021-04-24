@@ -11,4 +11,4 @@ Vkontakte: https://vk.com/quenich_exe
 Telegram: https://t.me/quenich
 Discord: quenich#2910
 
-### 👀 Did you read all the way through? Thank you =)
+### 👀Did you read all the way through? Thank you =)
