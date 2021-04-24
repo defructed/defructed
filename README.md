@@ -7,7 +7,7 @@
 - I can make bots for Telegram, VKontakte, Discord.
 
 ### 🧩 • I'm on social media:
-- Vkontakte: https://vk.com/quenich_exe
+- VKontakte: https://vk.com/quenich_exe
 - Telegram: https://t.me/quenich
 - Discord: quenich#2910
 
