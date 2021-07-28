@@ -1,14 +1,16 @@
-## 🕵️‍ • Hi, I'm quenich !
+## 🕵️‍ — Привет, меня завут Никита.
 
-### 📖 • Something about me:
-- I am a Full-stack developer.⠀
-- I am engaged in software development and other projects.
-- I know many programming languages.
-- I can make bots for Telegram, VKontakte, Discord.
+### 📑 — Немного обо мне:
+- Я Developer и Графический Дизайнер.
+- Пишу на этих яп'ах: JavaScript/TypeScript/Java/Kotlin/Go/Electron.
+- Работа с этими базами данных: MongoDB/NewSQL.
+- Владелец: Zetline Network.
 
-### 🧩 • I'm on social media:
-- VKontakte: https://vk.com/quenich_exe
+### 🔗 — Ссылки на мои социальные сети:
+- VKontakte: https://vk.com/quenich
 - Telegram: https://t.me/quenich
-- Discord: https://discord.gg/fK3ZUNpTtd
+- Instagram: https://www.instagram.com/quenich.omg
+- Telegram Channel: https://t.me/quenich_channel
+- Discord Server: https://discord.gg/qfwhejj45F
 
-### ❤ Did you read all the way through? Thank you =)
+### ❤ Вы прочитали все до конца? Спасибо =)
