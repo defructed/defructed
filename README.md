@@ -10,6 +10,7 @@
 - VKontakte: https://vk.com/quenich
 - Telegram: https://t.me/quenich
 - Instagram: https://www.instagram.com/quenich.omg
+- Smart Link: https://quenich.podlink.to/dev
 - Telegram Channel: https://t.me/quenich_channel
 - Discord Server: https://discord.gg/vut6a5q45D
 
