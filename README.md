@@ -5,9 +5,9 @@
 - Владею этими языками программирования: JavaScript/TypeScript/Java/Kotlin/Go/Electron.
 - Работа с этими базами данных: MongoDB/NewSQL.
 
-### 🔗 — Ссылки на мои социальные сети:
-- VKontakte: https://vk.com/def.ruct
+### 🔗 — Для связи со мной:
 - Telegram: https://t.me/uwuwfru
-- Instagram: https://www.instagram.com/defr.uct
+- Mail: ad@defruct.bizml.ru
+- Discord: defruct#4699
 
 ### ❤ Вы прочитали все до конца? Спасибо =)
