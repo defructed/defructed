@@ -1,17 +1,13 @@
-## 🕵️‍ — Привет, меня зовут Никита.
+## 🌏 — Доброго времени суток) Меня зовут Никита.
 
 ### 📑 — Немного обо мне:
-- Я Developer и Графический Дизайнер.
+- Я Программист и Графический Дизайнер.
 - Владею этими языками программирования: JavaScript/TypeScript/Java/Kotlin/Go/Electron.
 - Работа с этими базами данных: MongoDB/NewSQL.
-- Владелец: Zetline Extensive.
 
 ### 🔗 — Ссылки на мои социальные сети:
-- VKontakte: https://vk.com/quenich
-- Telegram: https://t.me/quenich
-- Instagram: https://www.instagram.com/quenich.omg
-- Smart Link: https://quenich.podlink.to/dev
-- Telegram Channel: https://t.me/quenich_channel
-- Discord Server: https://discord.gg/vut6a5q45D
+- VKontakte: https://vk.com/def.ruct
+- Telegram: https://t.me/uwuwfru
+- Instagram: https://www.instagram.com/defr.uct
 
 ### ❤ Вы прочитали все до конца? Спасибо =)
